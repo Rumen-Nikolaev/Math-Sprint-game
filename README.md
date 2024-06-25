@@ -1,0 +1,2 @@
+
+In the Math Sprint game, players encounter randomized math questions with four answer options. They select the correct answer, and upon choosing correctly, receive positive feedback; otherwise, an incorrect answer prompt appears. A time limit of 20 seconds intensifies the gameplay, concluding the session. The score, referred to as the High Score, remains visible throughout, accompanied by buttons enabling game initiation or restart.
